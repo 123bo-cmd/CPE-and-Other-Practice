@@ -1,4 +1,4 @@
-# CPE-Practice
+# CPE-and-Other-Practice
 CPE 程式設計檢定練習與題解
 
 ### 1. 3n+1
